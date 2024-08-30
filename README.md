@@ -13,7 +13,7 @@
 ## 🎨 Installation
 
 ```bash
-ya pack -a bennyip/gruvbox-dark.yazi
+ya pack -a bennyyip/gruvbox-dark
 ```
 
 ## ⚙️ Usage
